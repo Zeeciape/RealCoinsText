@@ -1,5 +1,5 @@
 let NewDate=26;
-let DailyPin='3f4426'
+let DailyPin='222222'
 
 
 
