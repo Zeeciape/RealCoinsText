@@ -1,4 +1,4 @@
-let NewDate=26;
+let NewDate=24;
 let DailyPin='222222'
 
 
